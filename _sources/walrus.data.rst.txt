@@ -1,0 +1,10 @@
+walrus.data package
+===================
+
+Module contents
+---------------
+
+.. automodule:: walrus.data
+   :members:
+   :undoc-members:
+   :show-inheritance:
